@@ -2,4 +2,5 @@
 
 This is the first Life expectancy calculation of an Indian State District Wise.
 
-If you want understand how Life expectancy is calculated, please read my blog on it at medium.com/ashutosh242
+If you want to understand life expectancy calculations, visit link mentioned below
+https://medium.com/ashutosh242/how-to-calculate-life-expectancy-8504cf5310af#.o0kaeukxy
